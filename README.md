@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Utshaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=utshaweu&count_private=true&show_icons=true)](https://github.com/utshaweu)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshaweu&langs_count=10&theme=radical&layout=compact" alt="utshaweu :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshaweu&langs_count=10&theme=radical&layout=compact" alt="utshaweu :: Top Langs" /></p>
