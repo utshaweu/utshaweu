@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h6>About Me</h6>
+<h6>👨‍🏫 About Me</h6>
 <p>
-  "Passionate Front-End Developer with 3 years of experience bringing creative designs to life through clean and efficient code. Skilled in HTML5, CSS3, JavaScript, and modern front-end frameworks like React. Strong attention to detail and a commitment to delivering high-quality user experiences. Thrives in collaborative environments, working closely with designers and backend developers to create seamless web applications. Constantly staying up-to-date with the latest industry trends and techniques. Let's connect and collaborate on innovative projects!"
+"Passionate Front-End Developer with 3 years of experience bringing creative designs to life through clean and efficient code. Skilled in HTML5, CSS3, JavaScript, and modern front-end frameworks like React. Strong attention to detail and a commitment to delivering high-quality user experiences. Thrives in collaborative environments, working closely with designers and backend developers to create seamless web applications. Constantly staying up-to-date with the latest industry trends and techniques. Let's connect and collaborate on innovative projects!"
 
 Feel free to customize this description to highlight your specific skills, experience, and accomplishments.
 </p>
