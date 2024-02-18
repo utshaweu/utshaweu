@@ -24,7 +24,7 @@ Feel free to customize this description to highlight your specific skills, exper
 </p>
 
 <h5>👨🏽‍💻 Top Skills</h5>
-<p>React.js • Front-end Development • Ant Design • Material-UI • Bootstrap</p>
+<p>React.js • JavaScript • Ant Design • Material-UI • Bootstrap</p>
 
 [![Utshaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=utshaweu&count_private=true&show_icons=true)](https://github.com/utshaweu)
 
